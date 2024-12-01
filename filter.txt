@@ -1,0 +1,3 @@
+! Block Reddit
+||reddit.com^
+||*.reddit.com^
